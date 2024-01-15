@@ -4,8 +4,8 @@ These nodes are placed in a rectangular bound, also randomly. Then the center po
 
 ### Here are the nodes in light blue with the connectors in black
 
-<img src="imgs/nodes.png" width="853" height="480" />
+<img src="./imgs/nodes.PNG" width="853" height="480" />
 
 ### Here are the connectors themselves, without the nodes
 
-<img src="imgs/connectors.png" width="853" height="480" />
+<img src="./imgs/connectors.PNG" width="853" height="480" />
